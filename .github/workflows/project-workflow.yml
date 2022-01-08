@@ -15,3 +15,6 @@ jobs:
         with:
           feed_list: "https://www.larsvanderniet.nl/rss.xml"
           comment_tag_name: "PROJECT-LIST"
+          commit_message: "Updated projects"
+          committer_username: "project-update-bot"
+          committer_email: "projectbot@updater.com"
