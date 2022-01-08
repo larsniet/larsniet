@@ -1,6 +1,6 @@
 ### Hi there, I'm [Lars van der Niet](https://www.larsvanderniet.nl/) 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.larsvanderniet.nl/)
+[![Website](https://img.shields.io/website?label=larsvanderniet.nl&style=for-the-badge&url=https%3A%2F%2Flarsvanderniet.nl)](https://www.larsvanderniet.nl/)
 
 ## I'm a Student, Motorcyclist, Developer, and Watersport enthousiast!
 
