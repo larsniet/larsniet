@@ -1,20 +1,20 @@
-### Hi there, I'm [Lars van der Niet][https://www.larsvanderniet.nl/] 👋
+### Hi there, I'm [Lars van der Niet](https://www.larsvanderniet.nl/) 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.larsvanderniet.nl/)
 
 ## I'm a Student, Motorcyclist, Developer, and Watersport enthousiast!
 
 - 🔭 I just created a new insightful dashboard for clients from [Adhese](https://adhese.com/) using CubeJS, React and custom OAuth
-- 🌱 I’m currently in my last year of Computer Sciences @ [Hogeschool Leiden][https://www.hsleiden.nl/]
+- 🌱 I’m currently in my last year of Computer Sciences @ [Hogeschool Leiden](https://www.hsleiden.nl/)
 - 👯 I’m always looking for new businesses that have a great idea but not the technical capabilities to get started (contact me if you are this new business)
 - 🥅 2022 Goals: Focus on a more healthy lifestyle with better balancing between my interests
 - ⚡ Fun fact: I love to play games, create cool (web-based) projects for myself and automate my home as much as I can
 
 ### Connect with me:
 
-[<img align="left" alt="larsvanderniet.nl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://www.larsvanderniet.nl/]
-[<img align="left" alt="Lars van der Niet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/lars-van-der-niet-055546182/]
-[<img align="left" alt="Lars van der Niet | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/lvdniet/]
+[<img align="left" alt="larsvanderniet.nl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.larsvanderniet.nl/)
+[<img align="left" alt="Lars van der Niet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/lars-van-der-niet-055546182/)
+[<img align="left" alt="Lars van der Niet | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/lvdniet/)
 
 <br />
 
@@ -44,11 +44,6 @@
 
 <!-- PROJECT-LIST:START -->
 
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 <!-- PROJECT-LIST:END -->
 
 ➡️ [more projects...](https://www.larsvanderniet.nl/)
