@@ -10,47 +10,19 @@
 - 🥅 2022 Goals: Focus on a more healthy lifestyle with better balancing between my interests
 - ⚡ Fun fact: I love to play games, create cool (web-based) projects for myself and automate my home as much as I can
 
+---
+
 ### Connect with me:
 
-<p style="color: blue;">
-  [<img align="left" alt="larsvanderniet.nl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.larsvanderniet.nl/)
-  [<img align="left" alt="Lars van der Niet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/lars-van-der-niet-055546182/)
-  [<img align="left" alt="Lars van der Niet | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/lvdniet/)
-</p>
+[<img align="left" alt="larsvanderniet.nl" width="22px" fill="red" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.larsvanderniet.nl/)
+[<img align="left" alt="Lars van der Niet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/lars-van-der-niet-055546182/)
+[<img align="left" alt="Lars van der Niet | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/lvdniet/)
 
 <br />
 
 ---
 
 ### Languages and Tools:
-
-<p align="left">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-    <a href="https://www.docker.com">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://laravel.com">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://reactjs.org">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://getbootstrap.com">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://jquery.com">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://git-scm.com">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
-    </a>
-</p>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -75,10 +47,6 @@
 ### 📕 Latest Projects
 
 <!-- PROJECT-LIST:START -->
-- [Fietsen met een doel](https://www.larsvanderniet.nl/projects/lemonbike-fietsen-met-een-doel)
-- [Natuurlijk bent u verzekerd...](https://www.larsvanderniet.nl/projects/alice-saat-adviezen)
-- [Walk local, eat local](https://www.larsvanderniet.nl/projects/dinnerwalks-walk-local-eat-local)
-- [Op jacht met de kids](https://www.larsvanderniet.nl/projects/berenjachtkaart-op-jacht-met-de-kids)
 <!-- PROJECT-LIST:END -->
 
 ➡️ [more projects...](https://www.larsvanderniet.nl/)
