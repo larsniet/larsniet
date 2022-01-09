@@ -47,6 +47,10 @@
 ### 📕 Latest Projects
 
 <!-- PROJECT-LIST:START -->
+- [Fietsen met een doel](https://www.larsvanderniet.nl/projects/lemonbike-fietsen-met-een-doel)
+- [Natuurlijk bent u verzekerd...](https://www.larsvanderniet.nl/projects/alice-saat-adviezen)
+- [Walk local, eat local](https://www.larsvanderniet.nl/projects/dinnerwalks-walk-local-eat-local)
+- [Op jacht met de kids](https://www.larsvanderniet.nl/projects/berenjachtkaart-op-jacht-met-de-kids)
 <!-- PROJECT-LIST:END -->
 
 ➡️ [more projects...](https://www.larsvanderniet.nl/)
