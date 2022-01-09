@@ -10,8 +10,6 @@
 - 🥅 2022 Goals: Focus on a more healthy lifestyle with better balancing between my interests
 - ⚡ Fun fact: I love to play games, create cool (web-based) projects for myself and automate my home as much as I can
 
----
-
 ### Connect with me:
 
 [<img align="left" alt="larsvanderniet.nl" width="22px" style="filter: invert(1) sepia(1) saturate(5) hue-rotate(175deg);" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.larsvanderniet.nl/)
@@ -19,8 +17,6 @@
 [<img align="left" alt="Lars van der Niet | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/lvdniet/)
 
 <br />
-
----
 
 ### Languages and Tools:
 
