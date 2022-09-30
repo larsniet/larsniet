@@ -1,6 +1,6 @@
-### Hi there, I'm [Lars van der Niet](https://www.larsvanderniet.nl/) 👋
+### Hi there, I'm [Lars van der Niet](https://larsvanderniet.nl/) 👋
 
-[![Website](https://img.shields.io/website?label=larsvanderniet.nl&style=for-the-badge&url=https%3A%2F%2Flarsvanderniet.nl)](https://www.larsvanderniet.nl/)
+[![Website](https://img.shields.io/website?label=larsvanderniet.nl&style=for-the-badge&url=https%3A%2F%2Flarsvanderniet.nl)](https://larsvanderniet.nl/)
 
 [![@larsniet's Holopin board](https://holopin.io/api/user/board?user=larsniet)](https://holopin.io/@larsniet)
 
@@ -51,7 +51,7 @@
 - [Op jacht met de kids](https://www.larsvanderniet.nl/projects/berenjachtkaart-op-jacht-met-de-kids)
 <!-- PROJECT-LIST:END -->
 
-➡️ [more projects...](https://www.larsvanderniet.nl/)
+➡️ [more projects...](https://larsvanderniet.nl/)
 
 ---
 
