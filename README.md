@@ -2,6 +2,8 @@
 
 [![Website](https://img.shields.io/website?label=larsvanderniet.nl&style=for-the-badge&url=https%3A%2F%2Flarsvanderniet.nl)](https://www.larsvanderniet.nl/)
 
+[![@larsniet's Holopin board](https://holopin.io/api/user/board?user=larsniet)](https://holopin.io/@larsniet)
+
 ## I'm a Student, Motorcyclist, Developer, and Watersport enthousiast!
 
 - 🔭 I just created a new insightful dashboard for clients from [Adhese](https://adhese.com/) using CubeJS, React and custom OAuth
