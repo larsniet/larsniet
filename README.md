@@ -16,11 +16,11 @@
 
 ### Connect with me:
 
-<a href="https://www.larsvanderniet.nl/" rel="nofollow">
-<img align="left" alt="larsvanderniet.nl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<a align="left" href="https://www.larsvanderniet.nl/" rel="nofollow">
+  :globe_with_meridians:
 </a>
 
-[:globe_with_meridians:](https://www.linkedin.com/in/lars-van-der-niet-055546182/)
+[<img align="left" alt="Lars van der Niet LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/lars-van-der-niet-055546182/)
 [<img align="left" alt="Lars van der Niet Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/discord.svg" />](https://discordapp.com/users/95259570091339776)
 [<img align="left" alt="Lars van der Niet | Instagram" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" />](https://www.instagram.com/lvdniet/)
 
