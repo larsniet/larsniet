@@ -16,9 +16,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="larsvanderniet.nl" width="22px" fill="#567a36" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.larsvanderniet.nl/)
-[<img align="left" fill="#567a36" alt="Lars van der Niet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/lars-van-der-niet-055546182/)
-[<img align="left" fill="#567a36" alt="Lars van der Niet | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/lvdniet/)
+[<img align="left" style="fill: '#567a36'" alt="larsvanderniet.nl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.larsvanderniet.nl/)
+[<img align="left" style="fill: '#567a36'" alt="Lars van der Niet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/lars-van-der-niet-055546182/)
+[<img align="left" style="fill: '#567a36'" alt="Lars van der Niet | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/lvdniet/)
 
 <br />
 
