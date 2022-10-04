@@ -6,6 +6,10 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larsniet&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+<div>
+<script src="https://cdn.htmlgames.com/embed.js?game=Free-cell&amp;bgcolor=white"></script>
+</div>
+
 ## I'm a Student, Motorcyclist, Developer, and Watersport enthousiast!
 
 - 🔭 I just created a new insightful dashboard for clients from [Adhese](https://adhese.com/) using CubeJS, React and custom OAuth
