@@ -6,6 +6,11 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larsniet&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+```js
+const myvar = "hello";
+console.log(myvar);
+```
+
 ## I'm a Student, Motorcyclist, Developer, and Watersport enthousiast!
 
 - 🔭 I just created a new insightful dashboard for clients from [Adhese](https://adhese.com/) using CubeJS, React and custom OAuth
