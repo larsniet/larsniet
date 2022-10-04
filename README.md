@@ -21,8 +21,6 @@
 [<img align="left" alt="Lars van der Niet Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/discord.svg" />](https://discordapp.com/users/95259570091339776)
 [<img align="left" alt="Lars van der Niet | Instagram" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" />](https://www.instagram.com/lvdniet/)
 
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
