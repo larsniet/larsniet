@@ -16,7 +16,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="larsvanderniet.nl" width="22px" style="filter: invert(42%) sepia(64%) saturate(383%) hue-rotate(49deg) brightness(86%) contrast(84%);" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.larsvanderniet.nl/)
+<a href="https://www.larsvanderniet.nl/" rel="nofollow">
+<img align="left" alt="larsvanderniet.nl" width="22px" style="filter: invert(42%) sepia(64%) saturate(383%) hue-rotate(49deg) brightness(86%) contrast(84%);" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+</a>
 [<img align="left" alt="Lars van der Niet LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/lars-van-der-niet-055546182/)
 [<img align="left" alt="Lars van der Niet Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/discord.svg" />](https://discordapp.com/users/95259570091339776)
 [<img align="left" alt="Lars van der Niet | Instagram" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" />](https://www.instagram.com/lvdniet/)
