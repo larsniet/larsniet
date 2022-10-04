@@ -16,7 +16,7 @@
 
 ### Connect with me:
 
-<a align="left" href="https://www.larsvanderniet.nl/" rel="nofollow">
+<a href="https://www.larsvanderniet.nl/" rel="nofollow">
   :globe_with_meridians:
 </a>
 
