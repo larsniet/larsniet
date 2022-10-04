@@ -1,4 +1,4 @@
-### Hi there, I'm [Lars van der Niet](https://larsvanderniet.nl/) 👋
+### Hi there, I'm [Lars van der Niet](https://larsvanderniet.nl/) 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 [![Website](https://img.shields.io/website?label=larsvanderniet.nl&style=for-the-badge&url=https%3A%2F%2Flarsvanderniet.nl)](https://larsvanderniet.nl/)
 
@@ -42,24 +42,4 @@
 
 ---
 
-### 📕 Latest Projects
-
-<!-- PROJECT-LIST:START -->
-- [Fietsen met een doel](https://www.larsvanderniet.nl/projects/lemonbike-fietsen-met-een-doel)
-- [Natuurlijk bent u verzekerd...](https://www.larsvanderniet.nl/projects/alice-saat-adviezen)
-- [Walk local, eat local](https://www.larsvanderniet.nl/projects/dinnerwalks-walk-local-eat-local)
-- [Op jacht met de kids](https://www.larsvanderniet.nl/projects/berenjachtkaart-op-jacht-met-de-kids)
-<!-- PROJECT-LIST:END -->
-
-➡️ [more projects...](https://larsvanderniet.nl/)
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=larsniet&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
