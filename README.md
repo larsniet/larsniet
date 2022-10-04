@@ -1,8 +1,9 @@
-### Hi there, I'm [Lars van der Niet](https://larsvanderniet.nl/) 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+### Hi there, I'm [Lars van der Niet](https://larsvanderniet.nl/) 👋
 
 [![Website](https://img.shields.io/website?label=larsvanderniet.nl&style=for-the-badge&url=https%3A%2F%2Flarsvanderniet.nl)](https://larsvanderniet.nl/)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-[![@larsniet's Holopin board](https://holopin.io/api/user/board?user=larsniet)](https://holopin.io/@larsniet)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=larsniet&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ## I'm a Student, Motorcyclist, Developer, and Watersport enthousiast!
 
@@ -42,4 +43,4 @@
 
 ---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=larsniet&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![@larsniet's Holopin board](https://holopin.io/api/user/board?user=larsniet)](https://holopin.io/@larsniet)
