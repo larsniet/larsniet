@@ -1,10 +1,19 @@
-### Hi there, I'm [Lars van der Niet](https://larsvanderniet.nl/) 👋 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flarsniet&countColor=%2344cc11&style=flat-square&labelStyle=upper)
+### Hi there, I'm [Lars van der Niet](https://larsvanderniet.nl/) 👋 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flarsniet&countColor=%2344cc11&style=flat-square&labelStyle=upper)
 
 ## What I do
 
-| - 🔭 Working @[Adhese](https://adhese.com/) and creating Open Source apps that make life just a bit easier.  
-- 👯 I’m always looking for new businesses that have a great idea but not the technical capabilities to get started (contact me if you are this new business)  Oh, and I apparently like using Github: | <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larsniet&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+- 🔭 Working @[Adhese](https://adhese.com/) and creating Open Source apps that make life just a bit easier. 
+- 👯 I’m always looking for new businesses that have a great idea but not the technical capabilities to get started (contact me if you are this new business)
+
+Oh, and apparently I like using Github
+
+[![larsniet's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=larsniet&show_icons=true&hide_border=true&count_private=true&hide=contribs&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![larsniet's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=larsniet&show_icons=true&hide_border=true&&count_private=true&&hide=contribstheme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=larsniet&theme=dark&layout=compact&count_private=true&show_icons=true&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-light](https://github-readme-stats.vercel.app/api/top-langs/?username=larsniet&theme=default&layout=compact&count_private=true&show_icons=true&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
 
 ### Hit me up
 
