@@ -9,6 +9,7 @@
 - ⚡ Fun fact: I love to play games, create cool (web-based) projects for myself and automate my home as much as I can
 
 Oh, and I apparently like using Github
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larsniet&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ### Connect with me:
