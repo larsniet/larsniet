@@ -2,12 +2,9 @@
 
 ## What I do
 
-- 🔭 Working @[Adhese](https://adhese.com/) and creating Open Source apps that make life just a bit easier. 
-- 👯 I’m always looking for new businesses that have a great idea but not the technical capabilities to get started (contact me if you are this new business)
-
-Oh, and I apparently like using Github:
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=larsniet&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+| - 🔭 Working @[Adhese](https://adhese.com/) and creating Open Source apps that make life just a bit easier.  
+- 👯 I’m always looking for new businesses that have a great idea but not the technical capabilities to get started (contact me if you are this new business)  Oh, and I apparently like using Github: | <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larsniet&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ### Hit me up
 
