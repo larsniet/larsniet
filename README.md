@@ -1,7 +1,5 @@
 ### Hi there, I'm [Lars van der Niet](https://larsvanderniet.nl/) 👋 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flarsniet&countColor=%2344cc11&style=flat-square&labelStyle=upper)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=larsniet&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
 ## I'm a Student, Motorcyclist, Developer, and Watersport enthousiast!
 
 - 🔭 I just created a new insightful dashboard for clients from [Adhese](https://adhese.com/) using CubeJS, React and custom OAuth
@@ -9,6 +7,9 @@
 - 👯 I’m always looking for new businesses that have a great idea but not the technical capabilities to get started (contact me if you are this new business)
 - 🥅 2022 Goals: Focus on a more healthy lifestyle with better balancing between my interests
 - ⚡ Fun fact: I love to play games, create cool (web-based) projects for myself and automate my home as much as I can
+
+Oh, and I apparently like using Github
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=larsniet&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ### Connect with me:
 
