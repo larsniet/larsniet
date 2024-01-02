@@ -8,8 +8,8 @@
 
 ### Hit me up
 
-[:globe_with_meridians:](https://larsvanderniet.nl/)
-[<img align="left" alt="Lars van der Niet LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/lars-van-der-niet-055546182/)
+[:globe_with_meridians:](https://lvdn.nl/)
+[<img align="left" alt="Lars van der Niet LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/larsvanderniet/)
 [<img align="left" alt="Lars van der Niet Discord" width="22px" src="https://cdn.simpleicons.org/discord" />](https://discordapp.com/users/95259570091339776)
 [<img align="left" alt="Lars van der Niet | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" />](https://www.instagram.com/lvdniet/)
 
