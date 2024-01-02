@@ -6,15 +6,6 @@
 - 🔭 Working @[Adhese](https://adhese.com/) and creating Open Source apps that make life just a bit easier. Check out [Paswords](https://paswords.link)!
 - 👯 I’m always looking for new businesses that have a great idea but not the technical capabilities to get started (contact me if you are this new business)
 
-Oh, and apparently I like using Github
-
-[![larsniet's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=larsniet&show_icons=true&hide_border=true&count_private=true&hide=contribs&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![larsniet's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=larsniet&show_icons=true&hide_border=true&&count_private=true&&hide=contribstheme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=larsniet&theme=dark&layout=compact&count_private=true&show_icons=true&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-light](https://github-readme-stats.vercel.app/api/top-langs/?username=larsniet&theme=default&layout=compact&count_private=true&show_icons=true&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-
-
 ### Hit me up
 
 [:globe_with_meridians:](https://larsvanderniet.nl/)
