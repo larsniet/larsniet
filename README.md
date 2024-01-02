@@ -9,9 +9,9 @@
 ### Hit me up
 
 [:globe_with_meridians:](https://larsvanderniet.nl/)
-[<img align="left" alt="Lars van der Niet LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/lars-van-der-niet-055546182/)
-[<img align="left" alt="Lars van der Niet Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/discord.svg" />](https://discordapp.com/users/95259570091339776)
-[<img align="left" alt="Lars van der Niet | Instagram" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" />](https://www.instagram.com/lvdniet/)
+[<img align="left" alt="Lars van der Niet LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/lars-van-der-niet-055546182/)
+[<img align="left" alt="Lars van der Niet Discord" width="22px" src="https://cdn.simpleicons.org/discord" />](https://discordapp.com/users/95259570091339776)
+[<img align="left" alt="Lars van der Niet | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" />](https://www.instagram.com/lvdniet/)
 
 ### Languages and Tools
 
