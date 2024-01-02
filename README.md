@@ -3,7 +3,7 @@
 
 ## What I do
 
-- 🔭 Working @[Adhese](https://adhese.com/) and creating Open Source apps that make life just a bit easier. Check out [Paswords](https://paswords.link)!
+- 🔭 Working @[Adswag](https://adswag.nl/).
 - 👯 I’m always looking for new businesses that have a great idea but not the technical capabilities to get started (contact me if you are this new business)
 
 ### Hit me up
