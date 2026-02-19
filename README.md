@@ -9,8 +9,8 @@ https://larsniet.com
 
 <!-- FEATURED-PROJECTS:START -->
 - [Bear hunt map, how young and old started walking again during a crisis](https://larsniet.com/journey/bear-hunt) — A school project that got out of hand. That's what this project is about in a nutshell. It started with the study assignment to create a useful map from data points, and it ended up being one of my most successful projects.
-- [Image Renamer: Bringing order to your photo library](https://larsniet.com/journey/image-renamer) — A Python tool that automatically renames image and video files based on their EXIF metadata, solving the chaos caused by cameras resetting their file numbering when SD cards are reformatted.
 - [Send passwords, the safe way](https://larsniet.com/journey/paswords) — Paswords allows users from all over the world to share passwords in a secure way. Using our one-time-only link feature no-one gets access to your password except the people you choose.
+- [S3X Explorer: A VS Code extension for S3-compatible storage](https://larsniet.com/journey/s3x-explorer) — A VS Code extension for browsing and managing S3-compatible storage right from the editor. Built with first-class support for Cloudflare R2, AWS S3, and MinIO — with inline editing, bulk operations, presigned URLs, and multipart uploads.
 <!-- FEATURED-PROJECTS:END -->
 
 
@@ -23,8 +23,11 @@ https://larsniet.com
 - [Deploying Keycloak on GKE with a custom Helm Chart](https://larsniet.com/journey/deploying-keycloak-on-gke) — Learn how to deploy Keycloak on Google Kubernetes Engine (GKE) using a custom Helm chart referencing Bitnami Keycloak. We'll set up ingress and SSL certificates, plus optional GitOps with Argo CD.
 - [Walk local, eat local](https://larsniet.com/journey/dinnerwalks) — Every Saturday and Sunday, we offered culinary walks through the region to support local hospitality businesses during the COVID crisis. For only €3.50, you could participate in a walk, receive your unique discount code, and also gain access to our special podcasts. In the podcast, we guided you through the most beautiful regions the Netherlands has to offer.
 - [A self-updating GitHub profile README](https://larsniet.com/journey/github-profile-readme) — My GitHub profile README stays in sync with my portfolio automatically. A GitHub Actions workflow fetches the latest projects from my website every hour and rewrites the README — no manual updates needed.
+- [Image Renamer: Bringing order to your photo library](https://larsniet.com/journey/image-renamer) — A Python tool that automatically renames image and video files based on their EXIF metadata, solving the chaos caused by cameras resetting their file numbering when SD cards are reformatted.
 - [Lemonbike: Cycling with a purpose](https://larsniet.com/journey/lemonbike) — Lemonbike is a young bicycle rental company that does things differently. With a wide range of bicycles and extra services such as delivery and pickup outside opening hours. They offer high service and aim for a carefree biking experience in the Bollenstreek for their customers.
 - [How to set up a passbolt server on Google Cloud](https://larsniet.com/journey/passbolt-gke) — A step-by-step tutorial for setting up a self-hosted Passbolt password manager on a Google Cloud VM using Gmail’s SMTP service.
+- [Queens: Building a constraint-satisfaction puzzle game](https://larsniet.com/journey/queens) — A browser-based puzzle game inspired by the N-Queens problem. Place one crown in each row, column, and color region without any two crowns touching — then build the engine that generates uniquely solvable puzzles every time.
+- [WBW: A Telegram bot that watches web pages for you](https://larsniet.com/journey/wbw) — A Dockerized Python bot that monitors any web page for element changes and sends you a Telegram message the moment something updates. Supports both static HTML parsing and full JavaScript rendering for dynamic content.
 - [Developing YoungPWR: Overcoming technical challenges for youth empowerment](https://larsniet.com/journey/youngpwr) — Discover the development journey of YoungPWR, a platform empowering youth with workshops, job opportunities, and more. Learn about the technical challenges faced and the solutions implemented.
 <!-- PROJECT-LIST:END -->
 
