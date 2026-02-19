@@ -22,7 +22,7 @@ Highlights
 
 ### RLVNT — Campaign Management Platform
 
-Full-stack platform for managing influencer and media campaigns.
+Full-stack platform for managing and booking media campaigns.
 
 Stack  
 Next.js • TypeScript • Prisma • Cloud SQL • Cloud Run
