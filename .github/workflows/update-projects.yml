@@ -21,7 +21,7 @@ jobs:
       - name: Fetch projects
         run: curl -s https://larsniet.com/api/projects > projects.json
 
-      - name: Install jq
+      - name: Install jqs
         run: sudo apt-get install jq -y
 
       - name: Generate README content
@@ -78,7 +78,7 @@ jobs:
         run: |
 
           git config user.name "larsniet"
-          git config user.email "123456+larsniet@users.noreply.github.com"
+          git config user.email "47820144+larsniet@users.noreply.github.com"
 
           git add README.md
 
