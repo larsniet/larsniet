@@ -19,7 +19,7 @@ jobs:
 
 
       - name: Fetch projects
-        run: curl -s https://larsniet.com/api/projects.json > projects.json
+        run: curl -s https://larsniet.com/api/projects > projects.json
 
       - name: Install jq
         run: sudo apt-get install jq -y
