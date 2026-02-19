@@ -1,0 +1,87 @@
+name: Update projects from website
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-projects:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+
+      - name: Fetch projects
+        run: curl -s https://larsniet.com/api/projects.json > projects.json
+
+      - name: Install jq
+        run: sudo apt-get install jq -y
+
+      - name: Generate README content
+        run: |
+
+          FEATURED=$(jq -r '
+            .[] |
+            select(.featured==true) |
+            "- [" + .title + "](" + .url + ") — " + .description
+          ' projects.json)
+
+          PROJECTS=$(jq -r '
+            .[] |
+            select(.featured!=true) |
+            "- [" + .title + "](" + .url + ") — " + .description
+          ' projects.json)
+
+
+          awk -v featured="$FEATURED" -v projects="$PROJECTS" '
+
+          /FEATURED-PROJECTS:START/ {
+              print
+              print featured
+              skip=1
+              next
+          }
+
+          /FEATURED-PROJECTS:END/ {
+              skip=0
+          }
+
+          /PROJECT-LIST:START/ {
+              print
+              print projects
+              skip=1
+              next
+          }
+
+          /PROJECT-LIST:END/ {
+              skip=0
+          }
+
+          !skip {
+              print
+          }
+
+          ' README.md > README.new
+
+
+          mv README.new README.md
+
+
+      - name: Commit and push
+        run: |
+
+          git config user.name "larsniet"
+          git config user.email "123456+larsniet@users.noreply.github.com"
+
+          git add README.md
+
+          git commit -m "chore: update projects from website" || exit 0
+
+          git push

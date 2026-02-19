@@ -1,50 +1,28 @@
 # Lars van der Niet
 
-Full-stack engineer focused on backend systems, infrastructure, and media platforms.
+Backend-focused full-stack engineer building scalable media, automation, and infrastructure platforms.
 
-Currently building scalable production systems using Go, TypeScript, GCP, and Cloudflare.
-
-
-## Selected Work
-
-### CreativeKit — Media Processing Platform
-
-Backend platform for media ingestion, processing, and delivery.
-
-Stack  
-Go • Cloudflare R2 • BigQuery • Docker • GCP
-
-Highlights  
-• Designed scalable media pipeline architecture  
-• Built automated processing and delivery systems  
-• Production deployment on cloud infrastructure  
+Website  
+https://larsniet.com
 
 
-### RLVNT — Campaign Management Platform
+---
 
-Full-stack platform for managing and booking media campaigns.
+## Featured Projects
 
-Stack  
-Next.js • TypeScript • Prisma • Cloud SQL • Cloud Run
-
-Highlights  
-• Built backend and frontend architecture  
-• Designed database and infrastructure  
-• Deployed scalable cloud environment  
+<!-- FEATURED-PROJECTS:START -->
+<!-- FEATURED-PROJECTS:END -->
 
 
-### Infrastructure & Homelab
+---
 
-Self-hosted production-style infrastructure and automation.
+## Other Projects
 
-Stack  
-Docker • Postgres • Cloudflare Tunnel • n8n
+<!-- PROJECT-LIST:START -->
+<!-- PROJECT-LIST:END -->
 
-Highlights  
-• Secure external access via Zero Trust  
-• Automated workflows and services  
-• Containerized service architecture  
 
+---
 
 ## Tech Stack
 
@@ -61,7 +39,18 @@ Frontend
 Next.js • React
 
 
-## Links
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=larsniet&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larsniet&layout=compact&theme=transparent)
+
+
+---
+
+## Contact
 
 Website  
 https://larsniet.com
