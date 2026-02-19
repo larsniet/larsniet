@@ -43,4 +43,4 @@ Next.js • React
 ## Contact
 
 https://larsniet.com  
-https://linkedin.com/in/larsniet
+https://linkedin.com/in/larsvanderniet
