@@ -43,10 +43,9 @@ Next.js • React
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=larsniet&show_icons=true&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=larsniet&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larsniet&layout=compact&theme=transparent)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larsniet&layout=compact)
 
 ---
 
